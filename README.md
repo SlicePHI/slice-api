@@ -1,8 +1,9 @@
 # slice-api
+Api web REST.
 
 ## Usage
 
-FIXME
+
 
 ## License
 
