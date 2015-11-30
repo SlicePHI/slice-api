@@ -1,5 +1,5 @@
 # slice-api
-Api web REST.
+Api web REST. Esto es el núcleo del servicio Slice y terceros se pueden conectar a dichos servicios a través de este api.
 
 ## Usage
 
